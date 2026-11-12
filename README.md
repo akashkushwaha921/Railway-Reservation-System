@@ -181,6 +181,5 @@ git push -u origin main
 - The starter schema above is based on the columns referenced by the PHP pages. If you already have a working database, back it up before changing its structure.
 - This project is intended as a learning/demo application. Perform a security review before any public or production deployment.
 
-## Author
-
-Add your name and project/course details here.
+  ## Author
+** AKASH KUSHWAHA — PYTHON DEVELOPER**
